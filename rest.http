@@ -1,0 +1,4 @@
+GET https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyBEOg-NOC6XSzfnCVydfAXgVTrc1Y4lDpY
+
+###
+GET https://maps.googleapis.com/maps/api/place/queryautocomplete/json?key=AIzaSyBEOg-NOC6XSzfnCVydfAXgVTrc1Y4lDpY&input=Ind
